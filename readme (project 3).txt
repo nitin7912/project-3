@@ -1,0 +1,2 @@
+Inmblement a Student library System using ooPs where Students can borrow a book from the list of books.
+Create a separate Library and Student class. Your program must be menu driven. You are free to choose methods and attributes of your choice to implement this functionality.
